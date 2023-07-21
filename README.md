@@ -1,2 +1,3 @@
 # Chess
- Learn to code chess AI
+IN DEVELOPMENT
+ Learn to code chess AI 
