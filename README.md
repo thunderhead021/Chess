@@ -1,3 +1,3 @@
 # Chess
-IN DEVELOPMENT
+<br> IN DEVELOPMENT </br>
  Learn to code chess AI 
